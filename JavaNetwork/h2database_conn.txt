@@ -1,0 +1,3 @@
+jdbc:h2:tcp://lcoalhost/file:d:\\h2\\db
+
+jdbc:h2:/d:/workspace/java/H2/db
